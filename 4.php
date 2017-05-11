@@ -6,6 +6,6 @@
  */
 
 $arr = array('green' => 'зеленый','red' => 'зеленый', 'red' => 'красный', 'blue' => 'синий');
-foreach ($arr as $item){
+foreach ($arr as $key => $item){
     echo $key.'<br>';
 }
