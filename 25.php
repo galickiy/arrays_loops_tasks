@@ -10,3 +10,5 @@ for($i=0;$i<50;$i++){
 }
 $min = min($arr);
 $max = max($arr);
+var_dump($min);
+var_dump($max);
