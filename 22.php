@@ -10,7 +10,7 @@
  */
 
 $x=1;
-$str='x';
+$str='';
 while($x<=5){
     $str.="xx";
     echo $str."<br>";
